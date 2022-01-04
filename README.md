@@ -1,4 +1,7 @@
 # Citi_Bike
+**You can find the Analysis Here: https://public.tableau.com/app/profile/marcus5817/viz/CitiBike_16412580222470/Story1**
+
+**The analysis can be found in the [here](citi_bike_analysis.md).**
 
 ## **Summary**:
 ## Background
@@ -33,8 +36,34 @@ However, while the data has been regularly updated, the team has yet to implemen
 - Datetime
 
 ## **Screenshots**
-## **Before Year is entered**
-![Web application before entering year](/Screenshots/BeforeYear.png)
+**Amount of Rides Per Month**
+
+![Amount of Rides Per Month](Images/Amount_of_Rides_Per_Month.png)
+
+**Membership Types**
+
+![Membership Types](Images/Membership_Types.png)
+
+**Winter Months**
+
+![Winter Months](Images/Winter_Months.png)
+
+**Summer Months**
+
+![Summer Months](Images/Summer_Months.png)
+
+**Peak Comparison**
+
+![Peak Comparison](Images/Peak_Comparison.png)
+
+**Duration Comparison**
+
+![Duration_Comparison](Images/Duration_Comparison.png)
+
+**Map**
+
+![Map](Images/Map.png)
+
 
 ## **Running the jupyter notebooks**
 1. Before running any of the jupyter notebooks please install needed packages running the following code in the terminal.
